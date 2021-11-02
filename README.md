@@ -1,1 +1,1 @@
-my dad says I'm Nobody.
+intermediate javascript programmer
