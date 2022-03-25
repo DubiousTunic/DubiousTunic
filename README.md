@@ -1,1 +1,1 @@
-intermediate javascript programmer
+advanced javascript and python programmer
