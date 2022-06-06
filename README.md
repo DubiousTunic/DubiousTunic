@@ -1,1 +1,1 @@
-advanced javascript and python programmer
+javascript and python programmer
